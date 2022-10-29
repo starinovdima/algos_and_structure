@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/79885/CLionProjects/Laba5/graph.h
+
+C:/Users/79885/CLionProjects/Laba5/main.c
+stdio.h
+-
+time.h
+-
+graph.h
+C:/Users/79885/CLionProjects/Laba5/graph.h
+stdlib.h
+-
+

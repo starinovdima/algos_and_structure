@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab5"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/lab5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab5">
+				<Option output="D:/lab5/cmake-build-debug/lab5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/lab5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab5"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab5/fast">
+				<Option output="D:/lab5/cmake-build-debug/lab5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/lab5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab5/fast"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/lab5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chernovik">
+				<Option output="D:/lab5/cmake-build-debug/chernovik.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/lab5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 chernovik"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chernovik/fast">
+				<Option output="D:/lab5/cmake-build-debug/chernovik.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/lab5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 chernovik/fast"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dop">
+				<Option output="D:/lab5/cmake-build-debug/dop.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/lab5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 dop"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dop/fast">
+				<Option output="D:/lab5/cmake-build-debug/dop.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/lab5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 dop/fast"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/lab5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/lab5/chernovik.c">
+			<Option target="chernovik"/>
+		</Unit>
+		<Unit filename="D:/lab5/dop.c">
+			<Option target="dop"/>
+		</Unit>
+		<Unit filename="D:/lab5/func.c">
+			<Option target="lab5"/>
+		</Unit>
+		<Unit filename="D:/lab5/func.h">
+			<Option target="lab5"/>
+		</Unit>
+		<Unit filename="D:/lab5/func_dop.c">
+			<Option target="dop"/>
+		</Unit>
+		<Unit filename="D:/lab5/func_dop.h">
+			<Option target="dop"/>
+		</Unit>
+		<Unit filename="D:/lab5/main.c">
+			<Option target="lab5"/>
+		</Unit>
+		<Unit filename="D:/lab5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

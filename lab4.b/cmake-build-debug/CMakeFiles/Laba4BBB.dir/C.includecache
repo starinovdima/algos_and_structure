@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/79885/CLionProjects/Laba4BBB/kd_tree.h
+stdio.h
+-
+
+C:/Users/79885/CLionProjects/Laba4BBB/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+kd_tree.h
+C:/Users/79885/CLionProjects/Laba4BBB/kd_tree.h
+

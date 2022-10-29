@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/79885/CLionProjects/LABBBB/3b_func.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+3b_func.h
+C:/Users/79885/CLionProjects/LABBBB/3b_func.h
+
+C:/Users/79885/CLionProjects/LABBBB/3b_func.h
+
+C:/Users/79885/CLionProjects/LABBBB/lab3b.c
+stdio.h
+-
+stdlib.h
+-
+3b_func.h
+C:/Users/79885/CLionProjects/LABBBB/3b_func.h
+

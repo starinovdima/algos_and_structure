@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/79885/CLionProjects/LABBBB/chernovik.c
+stdio.h
+-
+func_dop.h
+C:/Users/79885/CLionProjects/LABBBB/func_dop.h
+
+C:/Users/79885/CLionProjects/LABBBB/func_dop.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+func_dop.h
+C:/Users/79885/CLionProjects/LABBBB/func_dop.h
+
+C:/Users/79885/CLionProjects/LABBBB/func_dop.h
+

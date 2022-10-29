@@ -1,0 +1,18 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/79885/CLionProjects/Дима/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_217d4\fast && 	"D:\Visual Studio\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_217d4.dir\build.make /nologo -L                  CMakeFiles\cmTC_217d4.dir\build
+Building C object CMakeFiles/cmTC_217d4.dir/testCCompiler.c.obj
+	"D:\Visual Studio\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\cl.exe" @C:\Users\79885\AppData\Local\Temp\nm9649.tmp
+testCCompiler.c
+Linking C executable cmTC_217d4.exe
+	"D:\CLion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_217d4.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- "D:\Visual Studio\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_217d4.dir\objects1.rsp @C:\Users\79885\AppData\Local\Temp\nm98DB.tmp
+LINK Pass 1: command "D:\Visual Studio\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_217d4.dir\objects1.rsp /out:cmTC_217d4.exe /implib:cmTC_217d4.lib /pdb:C:\Users\79885\CLionProjects\????\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_217d4.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_217d4.dir/intermediate.manifest CMakeFiles\cmTC_217d4.dir/manifest.res" failed (exit code 1201) with the following output:
+LINK : fatal error LNK1201: Ошибка при записи в базу данных "C:\Users\79885\CLionProjects\????\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_217d4.pdb" программы; возможно, не хватает места на диске, недопустимый путь или недостаточно прав
+NMAKE : fatal error U1077: "D:\CLion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" : тючтЁр∙хээ√щ ъюф "0xffffffff"
+Stop.
+NMAKE : fatal error U1077: "D:\Visual Studio\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe" : тючтЁр∙хээ√щ ъюф "0x2"
+Stop.
+
+
+
